@@ -1,9 +1,9 @@
 ## Hi, I'm Kanishka! 👋
 
-Currently: B.S. Computer Science @ University of Washington - Seattle <i> (Graduating: June 2028) </i>
+Currently: B.S. **Computer Science** @ **University of Washington** - Seattle <i> (Graduating: June 2028) </i>
 
 
-Summer 2026: Software Intern @ UW Medicine
+Summer 2026: **Software Intern @ UW Medicine**
 <!--
 **Kan-Singh/Kan-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
