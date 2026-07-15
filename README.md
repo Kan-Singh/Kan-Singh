@@ -22,6 +22,25 @@ Summer 2026: **Software Intern @ UW Medicine**
 
 
 • built a cross-platform mobile app, using Flutter and Dart
+
+**Tech Stack:** Flutter, Dart, PyTorch, TensorFlow 
+
+---
+
+### 🔹 [SoundWave](https://github.com/hcp-uw/soundwave) - Music-centered Social Media/Review App
+
+• Gave users the ability to dynamically query 100 million+ songs, utilizing Spotify’s API
+
+• Enabled secure user login & account management by leveraging Firebase authentication and Google API
+
+• Managed user activity data, such as the creation of posts, playlists, and reviews by designing Firestore database
+collections and RESTful API, integrated into mobile UI built with React Native, Express.js, Expo Go
+
+**Tech Stack:** React Native, Firestore (databases), Express.js, APIs, REST endpoints 
+
+
+
+
 <!--
 **Kan-Singh/Kan-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
